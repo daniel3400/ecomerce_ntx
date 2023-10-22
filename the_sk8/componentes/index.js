@@ -1,7 +1,7 @@
-import {default as Footer} from './Footer'
-import {default as Layout} from './Layout'
-import {default as Navbar} from './Navbar'
-import {default as Producto} from './Producto'
-import {default as HeroBanner} from './HeroBanner'
-import {default as FooterBanner} from './FooterBanner'
-import {default as carro} from './carro'
+export { default as Footer} from './Footer';
+export { default as Cart} from './Carro';
+export { default as FooterBanner} from './FooterBanner';
+export { default as HeroBanner} from './HeroBanner';
+export { default as Layout} from './Layout';
+export { default as Navbar} from './Navbar';
+export { default as Product} from './Producto';
